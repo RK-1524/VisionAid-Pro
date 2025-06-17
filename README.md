@@ -23,7 +23,7 @@ Patent & Scopus journal publication in progress
 
 - 📄 [System Architecture](./architecture.md)
 - 📦 [Hardware Components List](./components_list.md)
-- 🖼️ [Hardware Diagram](./hardware_diagram.jpg)
+- 🖼️ [Hardware Diagram](./hardware-flow.jpeg)
 
 
 ---
