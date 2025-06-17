@@ -25,6 +25,7 @@ Patent & Scopus journal publication in progress
 - 📦 [Hardware Components List](./components_list.md)
 - 🖼️ [Hardware Diagram](./hardware_diagram.jpg)
 
+
 ---
 
 ## 📁 Code Overview
