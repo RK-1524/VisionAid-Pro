@@ -18,3 +18,16 @@ VisionAid Pro is a smart wearable system designed to assist visually impaired us
 ## 📚 EDI Capstone Project
 70% hardware + 30% software  
 Patent & Scopus journal publication in progress
+
+## 📚 Project Documentation
+
+- 📄 [System Architecture](./architecture.md)
+- 📦 [Hardware Components List](./components_list.md)
+- 🖼️ [Hardware Diagram](./hardware_diagram.jpg)
+
+---
+
+## 📁 Code Overview
+
+The core code is inside the [`/code`](./code) folder.
+
