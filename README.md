@@ -51,7 +51,10 @@ pip install ultralytics opencv-python
 sudo apt-get install espeak
 
 ```markdown
-## 🚀 How to Run
+
+
+
+
 
 To execute the object detection system, run:
 
